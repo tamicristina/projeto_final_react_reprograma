@@ -1,0 +1,70 @@
+.container_geral_projetos{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.projetos_container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.container-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+  background-color: rgb(103,107,167);
+  border-radius: 16px;
+  width: 500px;
+  height: 450px;
+  text-align: center;
+}
+.titulo_card {
+  color: #fff;
+}
+
+.ancora_card {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 10px;
+}
+
+.card_img {
+  width: 450px;
+  height: 300px;
+  margin-top: 10px;
+}
+
+.container_geral_repositorios{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  gap:30px;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+.cards_repos{
+  background-color: rgb(103,107,167);
+  border-radius: 4px;
+  color: #fff;
+  padding: 8px;
+  height: 90px;
+  width: 300px;
+}
+
+.cards_repos h1{
+  font-size: 20px;
+}
+
+.ancora_card_repositorios{
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  
+}

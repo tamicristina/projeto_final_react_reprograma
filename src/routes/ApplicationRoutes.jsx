@@ -3,6 +3,8 @@ import Sobre from "../pages/Sobre/Sobre";
 import Portfolio from "../pages/Portfolio/Portfolio";
 import Comentarios from "../pages/Comentarios/Comentarios";
 import Menu from "../componentes/Menu/Menu";
+import Contato from "../pages/Contato/Contato";
+import Footer from "../componentes/Footer/Footer";
 
 function ApplicationRoutes() {
   return (
@@ -13,7 +15,9 @@ function ApplicationRoutes() {
         <Route path="/" element={<Sobre />} />
         <Route path="portfolio" element={<Portfolio />} />
         <Route path="comentarios" element={<Comentarios />} />
+        <Route path="contato" element={<Contato />} />
       </Routes>
+      <Footer/>
     </BrowserRouter>
   );
 }

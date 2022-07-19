@@ -19,7 +19,7 @@ h2 {
   gap: 10px;
 }
 
-input {
+.input {
   background: #fff;
   border: 0.5 solid #686AAC;
   padding: 12px 24px;

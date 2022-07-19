@@ -50,7 +50,7 @@ function Comentarios() {
     <section className="list">
       <header>
         <div className="input-container">
-          <input 
+          <input  className="input"
             type="text"
             placeholder="Digite aqui"
             onChange={(e) => setNewItem(e.target.value)}
