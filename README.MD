@@ -1,4 +1,4 @@
-# Meu diário Reprograma
+# Projeto Final React - Reprograma
 
 <h1 align="center">
 	<img src="./src/assets/gif_projeto.gif" alt="Imagem de descrição do projeto"/>
