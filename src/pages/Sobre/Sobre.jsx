@@ -13,7 +13,7 @@ function Sobre(){
       Sobre Mim
     </Header>
     <div className="container-sobre-mim">
-        <img src="../../../src/assets/img_autora.jpeg" />
+        <img src="https://github.com/tamicristina/projeto_final_react_reprograma/blob/master/src/assets/img_autora.jpeg?raw=true" />
         <span className="container-sobre-mim-texto">
           <h1>Prazer, Tamires</h1>
           <p>

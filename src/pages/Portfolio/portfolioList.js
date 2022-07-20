@@ -1,4 +1,4 @@
-repositoriosReprograma = [
+const repositoriosReprograma = [
   {
     id: 1,
     nome: "Desafio de API - Github",
@@ -6,7 +6,7 @@ repositoriosReprograma = [
       "Desafio final do módulo de JavaScript consumindo a API do github",
     ferramentas: "HTML | CSS | JAVASCRIPT | API REST",
     imagem: "src/assets/gif_github.gif",
-    link: "https://github.com/tamicristina/On17-TodasEmTech_DesafioES6/tree/tamires-cristina",
+    link: "https://github.com/tamicristina/projeto_final_react_reprograma/blob/master/src/assets/gif_github.gif?raw=true",
   },
   {
     id: 2,
@@ -14,7 +14,7 @@ repositoriosReprograma = [
     descrição: "Desafio do módulo de JavaScript consumindo a API do Digimon",
     ferramentas: "HTML | CSS | JAVASCRIPT | API REST",
     imagem: "../../../src/assets/gif_digimon.gif",
-    link: "https://github.com/tamicristina/On17-TodasEmTech-JavascriptV/tree/tamires-cristina",
+    link: "https://github.com/tamicristina/projeto_final_react_reprograma/blob/master/src/assets/gif_digimon.gif?raw=true",
   },
   {
     id: 3,
@@ -22,7 +22,7 @@ repositoriosReprograma = [
     descrição: "Desafio realizado para praticar a responsividade",
     ferramentas: "HTML | CSS ",
     imagem: "../../../src/assets/gif_clone_twitter.gif",
-    link: "https://github.com/tamicristina/On17-TodasEmTech-HTMLeCSS-II/tree/tamires-cristina",
+    link: "https://github.com/tamicristina/projeto_final_react_reprograma/blob/master/src/assets/gif_clone_twitter.gif?raw=true",
   },
   {
     id: 4,
@@ -30,7 +30,8 @@ repositoriosReprograma = [
     descrição:
       "Desafio para renderizar dados de um json em tela utilizando métodos de array",
     ferramentas: "HTML | CSS | JAVASCRIPT ",
-    imagem: "../../../src/assets/desafio_javascript.png",
+    imagem:
+      "https://github.com/tamicristina/projeto_final_react_reprograma/blob/master/src/assets/desafio_javascript.png?raw=true",
     link: "https://github.com/tamicristina/On17-TodasEmTech_JavascriptIII/tree/tamires-cristina",
   },
 ];
