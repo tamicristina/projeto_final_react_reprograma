@@ -4,6 +4,7 @@ import image from "../../assets/header_image.svg";
 import projetos from "./portfolioList";
 import axios from "axios";
 import "./portfolio.css";
+import imagemTeste from '../../assets/gif_clone_twitter.gif'
 
 function Portfolio() {
   const [repositorios, setRepositorios] = useState([]);
@@ -24,7 +25,7 @@ function Portfolio() {
             return (
               <span className="container-cards" key={projeto.id}>
                 <h1 className="titulo_card">{projeto.nome}</h1>
-                <img className="card_img" src={projeto.imagem} />
+                <img className="card_img" src={imagemTeste} />
                 <a className="ancora_card" href={projeto.link} target="blank">
                   Link para o repositório
                 </a>
