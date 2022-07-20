@@ -1,11 +1,11 @@
-const repositoriosReprograma = [
+repositoriosReprograma = [
   {
     id: 1,
     nome: "Desafio de API - Github",
     descrição:
       "Desafio final do módulo de JavaScript consumindo a API do github",
     ferramentas: "HTML | CSS | JAVASCRIPT | API REST",
-    imagem: "../../assets/gif_github.gif",
+    imagem: "src/assets/gif_github.gif",
     link: "https://github.com/tamicristina/On17-TodasEmTech_DesafioES6/tree/tamires-cristina",
   },
   {
