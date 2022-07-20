@@ -20,7 +20,6 @@ function Portfolio() {
       <div className="container_geral_projetos">
         <div className="projetos_container">
           {projetos.map((projeto) => {
-            console.log(projeto);
             return (
               <span className="container-cards" key={projeto.id}>
                 <h1 className="titulo_card">{projeto.nome}</h1>
