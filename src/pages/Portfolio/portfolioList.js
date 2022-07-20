@@ -5,7 +5,7 @@ const repositoriosReprograma = [
     descrição:
       "Desafio final do módulo de JavaScript consumindo a API do github",
     ferramentas: "HTML | CSS | JAVASCRIPT | API REST",
-    imagem: "./src/assets/gif_github.gif",
+    imagem: "../../../src/assets/gif_github.gif",
     link: "https://github.com/tamicristina/On17-TodasEmTech_DesafioES6/tree/tamires-cristina",
   },
   {
@@ -13,7 +13,7 @@ const repositoriosReprograma = [
     nome: "Desafio de API - Digimon",
     descrição: "Desafio do módulo de JavaScript consumindo a API do Digimon",
     ferramentas: "HTML | CSS | JAVASCRIPT | API REST",
-    imagem: "./src/assets/gif_digimon.gif",
+    imagem: "../../../src/assets/gif_digimon.gif",
     link: "https://github.com/tamicristina/On17-TodasEmTech-JavascriptV/tree/tamires-cristina",
   },
   {
@@ -21,7 +21,7 @@ const repositoriosReprograma = [
     nome: "Desafio responsividade",
     descrição: "Desafio realizado para praticar a responsividade",
     ferramentas: "HTML | CSS ",
-    imagem: "./src/assets/gif_clone_twitter.gif",
+    imagem: "../../../src/assets/gif_clone_twitter.gif",
     link: "https://github.com/tamicristina/On17-TodasEmTech-HTMLeCSS-II/tree/tamires-cristina",
   },
   {
@@ -30,7 +30,7 @@ const repositoriosReprograma = [
     descrição:
       "Desafio para renderizar dados de um json em tela utilizando métodos de array",
     ferramentas: "HTML | CSS | JAVASCRIPT ",
-    imagem: "./src/assets/desafio_javascript.png",
+    imagem: "../../../src/assets/desafio_javascript.png",
     link: "https://github.com/tamicristina/On17-TodasEmTech_JavascriptIII/tree/tamires-cristina",
   },
 ];
